@@ -1,4 +1,4 @@
 Library
 =======
 
-My personal BibTeX file.
+My personal BibTeX database.
